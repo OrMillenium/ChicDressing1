@@ -239,3 +239,476 @@
 0296.696 (0) Saving backup status to database (elements: 8)
 0296.985 (0) Beginning creation of database dump (WordPress DB)
 0297.122 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0300.782 (0) Table wp_options: Total expected rows (via COUNT): 533
+0301.830 (0) Table wp_options: Rows added in this batch (next record: 130673): 529 (uncompressed bytes in this segment=2569200) in 3.85 seconds
+0302.931 (0) Table wp_options: finishing file(s) (2, 379.8 KB)
+0303.564 (0) Table wp_users: Total expected rows (via COUNT): 1
+0303.756 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0304.223 (0) Table wp_users: Rows added in this batch (next record: 3): 1 (uncompressed bytes in this segment=1515) in 0.94 seconds
+0304.978 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0306.256 (0) Table wp_usermeta: Total expected rows (via COUNT): 28
+0306.448 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0306.712 (0) Table wp_usermeta: Rows added in this batch (next record: 137): 28 (uncompressed bytes in this segment=5055) in 1.12 seconds
+0307.397 (0) Table wp_usermeta: finishing file(s) (2, 2.1 KB)
+0308.887 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 13
+0309.555 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0310.034 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 5184): 13 (uncompressed bytes in this segment=6430) in 2.08 seconds
+0311.094 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.3 KB)
+0311.706 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0312.198 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.55 seconds
+0312.731 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0313.523 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 5
+0313.665 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0314.419 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=813) in 1.11 seconds
+0315.034 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0316.379 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 37
+0316.463 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0317.470 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 12716): 37 (uncompressed bytes in this segment=4173) in 2.08 seconds
+0318.005 (0) The time we have been running (317.6) is approaching the resumption interval (345) - increasing resumption interval to 348
+0318.544 (0) The time we have been running (318.3) is approaching the resumption interval (348) - increasing resumption interval to 349
+0318.692 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.9 KB)
+0318.963 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0319.123 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=721) in 0.22 seconds
+0319.688 (0) The time we have been running (319.3) is approaching the resumption interval (349) - increasing resumption interval to 350
+0320.181 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0320.558 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0320.871 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1908) in 0.54 seconds
+0321.638 (0) The time we have been running (321) is approaching the resumption interval (350) - increasing resumption interval to 351
+0322.543 (0) The time we have been running (322.2) is approaching the resumption interval (351) - increasing resumption interval to 353
+0322.854 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0324.143 (0) Table wp_links: Total expected rows (via COUNT): 0
+0324.431 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1496) in 1.13 seconds
+0325.476 (0) The time we have been running (324.6) is approaching the resumption interval (353) - increasing resumption interval to 355
+0326.778 (0) The time we have been running (326.2) is approaching the resumption interval (355) - increasing resumption interval to 357
+0327.156 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0327.731 (0) Table wp_postmeta: Total expected rows (via COUNT): 295
+0327.838 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0328.192 (0) Table wp_postmeta: Rows added in this batch (next record: 1478): 295 (uncompressed bytes in this segment=94213) in 0.83 seconds
+0328.586 (0) The time we have been running (328.4) is approaching the resumption interval (357) - increasing resumption interval to 359
+0328.846 (0) Table wp_postmeta: finishing file(s) (2, 11.2 KB)
+0329.267 (0) Table wp_posts: Total expected rows (via COUNT): 49
+0329.504 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0329.709 (0) Table wp_posts: Rows added in this batch (next record: 990): 49 (uncompressed bytes in this segment=58085) in 0.61 seconds
+0330.328 (0) The time we have been running (330.1) is approaching the resumption interval (359) - increasing resumption interval to 361
+0330.946 (0) Table wp_posts: finishing file(s) (2, 12.5 KB)
+0331.125 (0) Table wp_term_relationships: Total expected rows (approximate): 41
+0331.404 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 41 (uncompressed bytes in this segment=1271) in 0.31 seconds
+0331.786 (0) The time we have been running (331.6) is approaching the resumption interval (361) - increasing resumption interval to 362
+0332.654 (0) The time we have been running (332.2) is approaching the resumption interval (362) - increasing resumption interval to 363
+0332.803 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0333.270 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 43
+0333.320 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0333.498 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 43): 43 (uncompressed bytes in this segment=2468) in 0.36 seconds
+0333.945 (0) The time we have been running (333.6) is approaching the resumption interval (363) - increasing resumption interval to 364
+0335.230 (0) The time we have been running (334.3) is approaching the resumption interval (364) - increasing resumption interval to 365
+0335.456 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.8 KB)
+0336.170 (0) Table wp_termmeta: Total expected rows (via COUNT): 8
+0336.262 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0336.500 (0) Table wp_termmeta: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1056) in 0.71 seconds
+0337.211 (0) The time we have been running (336.8) is approaching the resumption interval (365) - increasing resumption interval to 367
+0337.971 (0) The time we have been running (337.6) is approaching the resumption interval (367) - increasing resumption interval to 368
+0338.353 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0338.713 (0) Table wp_terms: Total expected rows (via COUNT): 43
+0338.824 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0339.272 (0) Table wp_terms: Rows added in this batch (next record: 43): 43 (uncompressed bytes in this segment=2194) in 0.66 seconds
+0339.759 (0) The time we have been running (339.4) is approaching the resumption interval (368) - increasing resumption interval to 370
+0340.519 (0) The time we have been running (340) is approaching the resumption interval (370) - increasing resumption interval to 371
+0340.778 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+0341.916 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 3
+0342.382 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=603) in 1.26 seconds
+0342.927 (0) The time we have been running (342.5) is approaching the resumption interval (371) - increasing resumption interval to 373
+0343.594 (0) The time we have been running (343.1) is approaching the resumption interval (373) - increasing resumption interval to 374
+0343.820 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0345.414 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 3
+0345.653 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0346.079 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 950): 3 (uncompressed bytes in this segment=1761) in 1.83 seconds
+0346.958 (0) The time we have been running (346.2) is approaching the resumption interval (374) - increasing resumption interval to 377
+0348.685 (0) The time we have been running (347.8) is approaching the resumption interval (377) - increasing resumption interval to 378
+0349.262 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0352.416 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0353.325 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 3.40 seconds
+0354.177 (0) The time we have been running (353.4) is approaching the resumption interval (378) - increasing resumption interval to 384
+0355.651 (0) The time we have been running (354.8) is approaching the resumption interval (384) - increasing resumption interval to 385
+0356.078 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0356.960 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0357.187 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0357.625 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=852) in 0.77 seconds
+0358.447 (0) The time we have been running (357.7) is approaching the resumption interval (385) - increasing resumption interval to 388
+0359.793 (0) The time we have been running (359.3) is approaching the resumption interval (388) - increasing resumption interval to 390
+0360.107 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0362.093 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0362.443 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=807) in 1.95 seconds
+0364.389 (0) The time we have been running (363.3) is approaching the resumption interval (390) - increasing resumption interval to 394
+0366.076 (0) The time we have been running (365.1) is approaching the resumption interval (394) - increasing resumption interval to 396
+0366.645 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0367.938 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0368.310 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=834) in 1.21 seconds
+0370.309 (0) The time we have been running (369.4) is approaching the resumption interval (396) - increasing resumption interval to 400
+0370.892 (0) The time we have been running (370.5) is approaching the resumption interval (400) - increasing resumption interval to 401
+0371.186 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0371.531 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0371.785 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=547) in 0.35 seconds
+0372.384 (0) The time we have been running (371.9) is approaching the resumption interval (401) - increasing resumption interval to 402
+0373.450 (0) The time we have been running (372.6) is approaching the resumption interval (402) - increasing resumption interval to 403
+0374.013 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0374.892 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+0375.168 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.89 seconds
+0375.625 (0) The time we have been running (375.4) is approaching the resumption interval (403) - increasing resumption interval to 406
+0376.135 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0376.893 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+0377.059 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=860) in 0.46 seconds
+0377.491 (0) The time we have been running (377.2) is approaching the resumption interval (406) - increasing resumption interval to 408
+0377.852 (0) Table wp_tm_tasks: finishing file(s) (2, 0.4 KB)
+0378.275 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 137
+0378.342 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0378.627 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 8141): 137 (uncompressed bytes in this segment=28556) in 0.64 seconds
+0379.091 (0) The time we have been running (378.7) is approaching the resumption interval (408) - increasing resumption interval to 409
+0379.667 (0) The time we have been running (379.4) is approaching the resumption interval (409) - increasing resumption interval to 410
+0379.810 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 4.6 KB)
+0380.064 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 108
+0380.100 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0380.210 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 110): 108 (uncompressed bytes in this segment=51950) in 0.21 seconds
+0381.133 (0) The time we have been running (380.8) is approaching the resumption interval (410) - increasing resumption interval to 411
+0381.645 (0) The time we have been running (381.4) is approaching the resumption interval (411) - increasing resumption interval to 412
+0381.885 (0) Table wp_wc_admin_notes: finishing file(s) (2, 11.5 KB)
+0382.123 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0382.238 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1434) in 0.27 seconds
+0382.589 (0) The time we have been running (382.3) is approaching the resumption interval (412) - increasing resumption interval to 413
+0382.927 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0383.221 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0383.318 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.18 seconds
+0384.042 (0) The time we have been running (383.5) is approaching the resumption interval (413) - increasing resumption interval to 414
+0384.907 (0) The time we have been running (384.5) is approaching the resumption interval (414) - increasing resumption interval to 415
+0385.194 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0385.566 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0385.748 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.42 seconds
+0386.081 (0) The time we have been running (385.9) is approaching the resumption interval (415) - increasing resumption interval to 416
+0386.869 (0) The time we have been running (386.5) is approaching the resumption interval (416) - increasing resumption interval to 417
+0387.060 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0387.607 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0387.743 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1203) in 0.34 seconds
+0388.290 (0) The time we have been running (388) is approaching the resumption interval (417) - increasing resumption interval to 418
+0388.797 (0) The time we have been running (388.6) is approaching the resumption interval (418) - increasing resumption interval to 419
+0388.901 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0389.216 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0389.242 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1241) in 0.07 seconds
+0389.590 (0) The time we have been running (389.3) is approaching the resumption interval (419) - increasing resumption interval to 420
+0389.833 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0390.198 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0390.342 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.20 seconds
+0390.690 (0) The time we have been running (390.4) is approaching the resumption interval (420) - increasing resumption interval to 421
+0390.891 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0391.158 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0391.264 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=872) in 0.24 seconds
+0391.549 (0) The time we have been running (391.3) is approaching the resumption interval (421) - increasing resumption interval to 422
+0391.959 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0392.170 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 0
+0392.222 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.06 seconds
+0392.522 (0) The time we have been running (392.3) is approaching the resumption interval (422) - increasing resumption interval to 423
+0392.887 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.4 KB)
+0393.268 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0393.361 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.15 seconds
+0393.890 (0) The time we have been running (393.5) is approaching the resumption interval (423) - increasing resumption interval to 424
+0394.481 (0) The time we have been running (394.1) is approaching the resumption interval (424) - increasing resumption interval to 425
+0394.954 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0395.264 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0395.310 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1325) in 0.26 seconds
+0395.562 (0) The time we have been running (395.3) is approaching the resumption interval (425) - increasing resumption interval to 426
+0395.790 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0396.156 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0396.298 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1170) in 0.28 seconds
+0396.735 (0) The time we have been running (396.6) is approaching the resumption interval (426) - increasing resumption interval to 427
+0397.201 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0397.667 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0397.782 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1042) in 0.22 seconds
+0398.232 (0) The time we have been running (397.9) is approaching the resumption interval (427) - increasing resumption interval to 428
+0398.664 (0) The time we have been running (398.6) is approaching the resumption interval (428) - increasing resumption interval to 429
+0398.800 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0399.039 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0399.066 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1606) in 0.06 seconds
+0399.326 (0) The time we have been running (399.1) is approaching the resumption interval (429) - increasing resumption interval to 430
+0399.501 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0399.973 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0400.041 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.18 seconds
+0401.257 (0) The time we have been running (400.6) is approaching the resumption interval (430) - increasing resumption interval to 431
+0402.073 (0) The time we have been running (401.4) is approaching the resumption interval (431) - increasing resumption interval to 432
+0402.202 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0402.565 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0402.901 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=775) in 0.34 seconds
+0403.503 (0) The time we have been running (403.2) is approaching the resumption interval (432) - increasing resumption interval to 434
+0404.063 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0404.350 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0404.433 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=899) in 0.12 seconds
+0404.843 (0) The time we have been running (404.5) is approaching the resumption interval (434) - increasing resumption interval to 435
+0404.951 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0405.357 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 3
+0405.473 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0405.687 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 13): 3 (uncompressed bytes in this segment=4305) in 0.51 seconds
+0406.191 (0) The time we have been running (405.9) is approaching the resumption interval (435) - increasing resumption interval to 436
+0406.665 (0) The time we have been running (406.4) is approaching the resumption interval (436) - increasing resumption interval to 437
+0407.133 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.1 KB)
+0407.642 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0407.782 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=910) in 0.30 seconds
+0408.139 (0) The time we have been running (407.8) is approaching the resumption interval (437) - increasing resumption interval to 438
+0408.591 (0) The time we have been running (408.3) is approaching the resumption interval (438) - increasing resumption interval to 439
+0409.027 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0409.267 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0409.406 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=785) in 0.15 seconds
+0409.951 (0) The time we have been running (409.5) is approaching the resumption interval (439) - increasing resumption interval to 440
+0410.616 (0) The time we have been running (410.2) is approaching the resumption interval (440) - increasing resumption interval to 441
+0410.950 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0411.296 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0411.443 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=647) in 0.20 seconds
+0411.897 (0) The time we have been running (411.5) is approaching the resumption interval (441) - increasing resumption interval to 442
+0412.888 (0) The time we have been running (412.1) is approaching the resumption interval (442) - increasing resumption interval to 443
+0413.531 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0415.568 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0415.809 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=884) in 1.75 seconds
+0417.647 (0) The time we have been running (416.4) is approaching the resumption interval (443) - increasing resumption interval to 447
+0418.806 (0) The time we have been running (418.4) is approaching the resumption interval (447) - increasing resumption interval to 449
+0419.299 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0420.146 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0420.584 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1393) in 0.76 seconds
+0421.708 (0) The time we have been running (421.1) is approaching the resumption interval (449) - increasing resumption interval to 452
+0423.781 (0) The time we have been running (422.6) is approaching the resumption interval (452) - increasing resumption interval to 453
+0424.538 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0425.582 (0) Table wp_wysija_campaign: Total expected rows (via COUNT): 1
+0425.722 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0426.280 (0) Table wp_wysija_campaign: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=572) in 1.12 seconds
+0426.896 (0) The time we have been running (426.4) is approaching the resumption interval (453) - increasing resumption interval to 457
+0427.837 (0) The time we have been running (427.3) is approaching the resumption interval (457) - increasing resumption interval to 458
+0428.248 (0) Table wp_wysija_campaign: finishing file(s) (2, 0.4 KB)
+0429.048 (0) Table wp_wysija_campaign_list: Total expected rows (approximate): 0
+0429.432 (0) Table wp_wysija_campaign_list: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=501) in 0.74 seconds
+0430.479 (0) The time we have been running (429.9) is approaching the resumption interval (458) - increasing resumption interval to 460
+0431.338 (0) The time we have been running (430.8) is approaching the resumption interval (460) - increasing resumption interval to 461
+0431.547 (0) Table wp_wysija_campaign_list: finishing file(s) (2, 0.3 KB)
+0431.974 (0) Table wp_wysija_custom_field: Total expected rows (via COUNT): 0
+0432.047 (0) Table wp_wysija_custom_field: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=548) in 0.26 seconds
+0432.811 (0) The time we have been running (432.2) is approaching the resumption interval (461) - increasing resumption interval to 463
+0434.704 (0) The time we have been running (433.4) is approaching the resumption interval (463) - increasing resumption interval to 464
+0435.230 (0) Table wp_wysija_custom_field: finishing file(s) (2, 0.3 KB)
+0437.296 (0) Table wp_wysija_email: Total expected rows (via COUNT): 2
+0437.625 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0437.960 (0) Table wp_wysija_email: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=32780) in 1.79 seconds
+0438.923 (0) The time we have been running (438.4) is approaching the resumption interval (464) - increasing resumption interval to 469
+0440.507 (0) The time we have been running (440) is approaching the resumption interval (469) - increasing resumption interval to 471
+0440.872 (0) Table wp_wysija_email: finishing file(s) (2, 6.3 KB)
+0441.672 (0) Table wp_wysija_email_user_stat: Total expected rows (approximate): 0
+0441.891 (0) Table wp_wysija_email_user_stat: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=607) in 0.61 seconds
+0442.386 (0) The time we have been running (442) is approaching the resumption interval (471) - increasing resumption interval to 473
+0442.639 (0) Table wp_wysija_email_user_stat: finishing file(s) (2, 0.3 KB)
+0442.919 (0) Table wp_wysija_email_user_url: Total expected rows (approximate): 0
+0442.974 (0) Table wp_wysija_email_user_url: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=623) in 0.14 seconds
+0443.330 (0) The time we have been running (443) is approaching the resumption interval (473) - increasing resumption interval to 474
+0443.725 (0) Table wp_wysija_email_user_url: finishing file(s) (2, 0.3 KB)
+0444.349 (0) Table wp_wysija_form: Total expected rows (via COUNT): 1
+0444.402 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0444.534 (0) Table wp_wysija_form: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1582) in 0.35 seconds
+0444.966 (0) The time we have been running (444.7) is approaching the resumption interval (474) - increasing resumption interval to 475
+0445.486 (0) The time we have been running (445.2) is approaching the resumption interval (475) - increasing resumption interval to 476
+0445.807 (0) Table wp_wysija_form: finishing file(s) (2, 0.9 KB)
+0446.274 (0) Table wp_wysija_list: Total expected rows (via COUNT): 2
+0446.333 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0446.363 (0) Table wp_wysija_list: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1123) in 0.26 seconds
+0446.830 (0) The time we have been running (446.5) is approaching the resumption interval (476) - increasing resumption interval to 477
+0447.247 (0) The time we have been running (447.1) is approaching the resumption interval (477) - increasing resumption interval to 478
+0447.461 (0) Table wp_wysija_list: finishing file(s) (2, 0.5 KB)
+0447.704 (0) Table wp_wysija_queue: Total expected rows (approximate): 0
+0447.940 (0) Table wp_wysija_queue: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=609) in 0.39 seconds
+0448.391 (0) The time we have been running (448) is approaching the resumption interval (478) - increasing resumption interval to 479
+0448.797 (0) Table wp_wysija_queue: finishing file(s) (2, 0.3 KB)
+0449.136 (0) Table wp_wysija_subscriber_ips: Total expected rows (approximate): 0
+0449.321 (0) Table wp_wysija_subscriber_ips: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=519) in 0.23 seconds
+0449.600 (0) The time we have been running (449.4) is approaching the resumption interval (479) - increasing resumption interval to 480
+0449.848 (0) Table wp_wysija_subscriber_ips: finishing file(s) (2, 0.3 KB)
+0449.972 (0) Table wp_wysija_url: Total expected rows (via COUNT): 0
+0450.044 (0) Table wp_wysija_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=434) in 0.11 seconds
+0450.420 (0) The time we have been running (450.1) is approaching the resumption interval (480) - increasing resumption interval to 481
+0451.259 (0) Table wp_wysija_url: finishing file(s) (2, 0.3 KB)
+0451.653 (0) Table wp_wysija_url_mail: Total expected rows (approximate): 0
+0451.856 (0) Table wp_wysija_url_mail: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=559) in 0.24 seconds
+0452.568 (0) The time we have been running (452.1) is approaching the resumption interval (481) - increasing resumption interval to 483
+0452.686 (0) Table wp_wysija_url_mail: finishing file(s) (2, 0.3 KB)
+0453.359 (0) Table wp_wysija_user: Total expected rows (via COUNT): 1
+0453.477 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0453.771 (0) Table wp_wysija_user: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=1264) in 0.81 seconds
+0454.285 (0) The time we have been running (454) is approaching the resumption interval (483) - increasing resumption interval to 484
+0455.762 (0) The time we have been running (454.9) is approaching the resumption interval (484) - increasing resumption interval to 485
+0456.376 (0) Table wp_wysija_user: finishing file(s) (2, 0.6 KB)
+0457.010 (0) Table wp_wysija_user_field: Total expected rows (via COUNT): 2
+0457.152 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0457.286 (0) Table wp_wysija_user_field: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=933) in 0.50 seconds
+0457.635 (0) The time we have been running (457.5) is approaching the resumption interval (485) - increasing resumption interval to 488
+0457.996 (0) Table wp_wysija_user_field: finishing file(s) (2, 0.5 KB)
+0458.443 (0) Table wp_wysija_user_history: Total expected rows (via COUNT): 0
+0458.586 (0) Table wp_wysija_user_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.21 seconds
+0459.176 (0) The time we have been running (458.8) is approaching the resumption interval (488) - increasing resumption interval to 489
+0460.005 (0) The time we have been running (459.6) is approaching the resumption interval (489) - increasing resumption interval to 490
+0460.337 (0) Table wp_wysija_user_history: finishing file(s) (2, 0.4 KB)
+0460.807 (0) Table wp_wysija_user_list: Total expected rows (approximate): 2
+0461.221 (0) Table wp_wysija_user_list: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=621) in 0.45 seconds
+0461.784 (0) The time we have been running (461.3) is approaching the resumption interval (490) - increasing resumption interval to 492
+0462.459 (0) The time we have been running (462) is approaching the resumption interval (492) - increasing resumption interval to 493
+0462.630 (0) Table wp_wysija_user_list: finishing file(s) (2, 0.4 KB)
+0462.760 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_options.table.tmpr130674.gz (1/65/fopen): adding to final database dump
+0462.891 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_options.table.gz (2/65/fopen): adding to final database dump
+0462.994 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_users.table.tmpr4.gz (3/65/fopen): adding to final database dump
+0463.286 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_users.table.gz (4/65/fopen): adding to final database dump
+0463.527 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_usermeta.table.tmpr138.gz (5/65/fopen): adding to final database dump
+0463.661 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_usermeta.table.gz (6/65/fopen): adding to final database dump
+0463.768 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_actions.table.tmpr5185.gz (7/65/fopen): adding to final database dump
+0463.986 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_actions.table.gz (8/65/fopen): adding to final database dump
+0464.043 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/65/fopen): adding to final database dump
+0464.094 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_claims.table.gz (10/65/fopen): adding to final database dump
+0464.368 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_groups.table.tmpr6.gz (11/65/fopen): adding to final database dump
+0464.831 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_groups.table.gz (12/65/fopen): adding to final database dump
+0465.123 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_logs.table.tmpr12717.gz (13/65/fopen): adding to final database dump
+0465.244 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_actionscheduler_logs.table.gz (14/65/fopen): adding to final database dump
+0465.618 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_commentmeta.table.tmpr0.gz (15/65/fopen): adding to final database dump
+0465.711 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_commentmeta.table.gz (16/65/fopen): adding to final database dump
+0466.030 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_comments.table.tmpr0.gz (17/65/fopen): adding to final database dump
+0466.102 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_comments.table.gz (18/65/fopen): adding to final database dump
+0466.396 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_links.table.tmpr0.gz (19/65/fopen): adding to final database dump
+0466.568 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_links.table.gz (20/65/fopen): adding to final database dump
+0466.859 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_postmeta.table.tmpr1479.gz (21/65/fopen): adding to final database dump
+0467.362 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_postmeta.table.gz (22/65/fopen): adding to final database dump
+0467.504 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_posts.table.tmpr991.gz (23/65/fopen): adding to final database dump
+0467.738 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_posts.table.gz (24/65/fopen): adding to final database dump
+0467.809 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_term_relationships.table.tmpr100001.gz (25/65/fopen): adding to final database dump
+0467.886 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_term_relationships.table.gz (26/65/fopen): adding to final database dump
+0468.084 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_term_taxonomy.table.tmpr44.gz (27/65/fopen): adding to final database dump
+0468.169 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_term_taxonomy.table.gz (28/65/fopen): adding to final database dump
+0468.335 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_termmeta.table.tmpr9.gz (29/65/fopen): adding to final database dump
+0468.469 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_termmeta.table.gz (30/65/fopen): adding to final database dump
+0468.560 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_terms.table.tmpr44.gz (31/65/fopen): adding to final database dump
+0468.993 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_terms.table.gz (32/65/fopen): adding to final database dump
+0469.151 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/65/fopen): adding to final database dump
+0469.610 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_category_lookup.table.gz (34/65/fopen): adding to final database dump
+0469.743 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_product_meta_lookup.table.tmpr951.gz (35/65/fopen): adding to final database dump
+0469.910 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_product_meta_lookup.table.gz (36/65/fopen): adding to final database dump
+0470.201 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/65/fopen): adding to final database dump
+0470.477 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_reserved_stock.table.gz (38/65/fopen): adding to final database dump
+0470.751 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/65/fopen): adding to final database dump
+0470.835 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_tax_rate_classes.table.gz (40/65/fopen): adding to final database dump
+0470.976 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/65/fopen): adding to final database dump
+0471.205 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_order_itemmeta.table.gz (42/65/fopen): adding to final database dump
+0471.300 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/65/fopen): adding to final database dump
+0471.435 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/65/fopen): adding to final database dump
+0471.859 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_e_events.table.tmpr0.gz (45/65/fopen): adding to final database dump
+0471.977 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_e_events.table.gz (46/65/fopen): adding to final database dump
+0472.226 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_tm_taskmeta.table.tmpr0.gz (47/65/fopen): adding to final database dump
+0472.352 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_tm_taskmeta.table.gz (48/65/fopen): adding to final database dump
+0472.550 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_tm_tasks.table.tmpr0.gz (49/65/fopen): adding to final database dump
+0472.785 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_tm_tasks.table.gz (50/65/fopen): adding to final database dump
+0472.834 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_admin_note_actions.table.tmpr8142.gz (51/65/fopen): adding to final database dump
+0473.151 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_admin_note_actions.table.gz (52/65/fopen): adding to final database dump
+0473.285 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_admin_notes.table.tmpr111.gz (53/65/fopen): adding to final database dump
+0473.512 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_admin_notes.table.gz (54/65/fopen): adding to final database dump
+0473.608 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_customer_lookup.table.tmpr0.gz (55/65/fopen): adding to final database dump
+0473.960 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_customer_lookup.table.gz (56/65/fopen): adding to final database dump
+0474.009 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_download_log.table.tmpr0.gz (57/65/fopen): adding to final database dump
+0474.051 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_download_log.table.gz (58/65/fopen): adding to final database dump
+0474.151 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (59/65/fopen): adding to final database dump
+0474.279 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_coupon_lookup.table.gz (60/65/fopen): adding to final database dump
+0474.376 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (61/65/fopen): adding to final database dump
+0474.427 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_product_lookup.table.gz (62/65/fopen): adding to final database dump
+0474.526 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_stats.table.tmpr0.gz (63/65/fopen): adding to final database dump
+0474.651 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_stats.table.gz (64/65/fopen): adding to final database dump
+0474.751 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (65/65/fopen): adding to final database dump
+0474.835 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_order_tax_lookup.table.gz (66/65/fopen): adding to final database dump
+0474.960 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (67/65/fopen): adding to final database dump
+0475.068 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_product_attributes_lookup.table.gz (68/65/fopen): adding to final database dump
+0475.143 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_product_download_directories.table.tmpr0.gz (69/65/fopen): adding to final database dump
+0475.410 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_product_download_directories.table.gz (70/65/fopen): adding to final database dump
+0475.612 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_rate_limits.table.tmpr0.gz (71/65/fopen): adding to final database dump
+0475.884 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_rate_limits.table.gz (72/65/fopen): adding to final database dump
+0476.075 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_webhooks.table.tmpr0.gz (73/65/fopen): adding to final database dump
+0476.476 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wc_webhooks.table.gz (74/65/fopen): adding to final database dump
+0476.534 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (75/65/fopen): adding to final database dump
+0476.601 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_api_keys.table.gz (76/65/fopen): adding to final database dump
+0476.759 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (77/65/fopen): adding to final database dump
+0476.793 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_attribute_taxonomies.table.gz (78/65/fopen): adding to final database dump
+0476.817 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (79/65/fopen): adding to final database dump
+0476.960 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (80/65/fopen): adding to final database dump
+0477.180 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_log.table.tmpr0.gz (81/65/fopen): adding to final database dump
+0477.268 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_log.table.gz (82/65/fopen): adding to final database dump
+0477.362 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_order_items.table.tmpr0.gz (83/65/fopen): adding to final database dump
+0477.543 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_order_items.table.gz (84/65/fopen): adding to final database dump
+0477.617 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (85/65/fopen): adding to final database dump
+0477.684 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_payment_tokens.table.gz (86/65/fopen): adding to final database dump
+0477.717 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_sessions.table.tmpr14.gz (87/65/fopen): adding to final database dump
+0477.892 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_sessions.table.gz (88/65/fopen): adding to final database dump
+0478.076 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (89/65/fopen): adding to final database dump
+0478.143 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_shipping_zone_locations.table.gz (90/65/fopen): adding to final database dump
+0478.242 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (91/65/fopen): adding to final database dump
+0478.301 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_shipping_zone_methods.table.gz (92/65/fopen): adding to final database dump
+0478.543 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (93/65/fopen): adding to final database dump
+0478.726 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_shipping_zones.table.gz (94/65/fopen): adding to final database dump
+0479.134 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (95/65/fopen): adding to final database dump
+0479.201 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_tax_rate_locations.table.gz (96/65/fopen): adding to final database dump
+0479.291 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (97/65/fopen): adding to final database dump
+0479.409 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_woocommerce_tax_rates.table.gz (98/65/fopen): adding to final database dump
+0479.619 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_campaign.table.tmpr2.gz (99/65/fopen): adding to final database dump
+0480.074 (0) The time we have been running (479.8) is approaching the resumption interval (493) - increasing resumption interval to 510
+0480.324 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_campaign.table.gz (100/65/fopen): adding to final database dump
+0480.483 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_campaign_list.table.tmpr1.gz (101/65/fopen): adding to final database dump
+0480.642 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_campaign_list.table.gz (102/65/fopen): adding to final database dump
+0480.791 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_custom_field.table.tmpr0.gz (103/65/fopen): adding to final database dump
+0480.925 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_custom_field.table.gz (104/65/fopen): adding to final database dump
+0481.153 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_email.table.tmpr3.gz (105/65/fopen): adding to final database dump
+0481.479 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_email.table.gz (106/65/fopen): adding to final database dump
+0481.680 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_email_user_stat.table.tmpr1.gz (107/65/fopen): adding to final database dump
+0481.785 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_email_user_stat.table.gz (108/65/fopen): adding to final database dump
+0482.352 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_email_user_url.table.tmpr1.gz (109/65/fopen): adding to final database dump
+0482.563 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_email_user_url.table.gz (110/65/fopen): adding to final database dump
+0483.192 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_form.table.tmpr2.gz (111/65/fopen): adding to final database dump
+0483.361 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_form.table.gz (112/65/fopen): adding to final database dump
+0483.610 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_list.table.tmpr3.gz (113/65/fopen): adding to final database dump
+0483.785 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_list.table.gz (114/65/fopen): adding to final database dump
+0483.983 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_queue.table.tmpr1.gz (115/65/fopen): adding to final database dump
+0484.051 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_queue.table.gz (116/65/fopen): adding to final database dump
+0484.176 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_subscriber_ips.table.tmpr1.gz (117/65/fopen): adding to final database dump
+0484.333 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_subscriber_ips.table.gz (118/65/fopen): adding to final database dump
+0484.391 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_url.table.tmpr0.gz (119/65/fopen): adding to final database dump
+0484.553 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_url.table.gz (120/65/fopen): adding to final database dump
+0484.815 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_url_mail.table.tmpr1.gz (121/65/fopen): adding to final database dump
+0484.884 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_url_mail.table.gz (122/65/fopen): adding to final database dump
+0485.032 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user.table.tmpr3.gz (123/65/fopen): adding to final database dump
+0485.141 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user.table.gz (124/65/fopen): adding to final database dump
+0485.330 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user_field.table.tmpr3.gz (125/65/fopen): adding to final database dump
+0485.508 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user_field.table.gz (126/65/fopen): adding to final database dump
+0485.607 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user_history.table.tmpr0.gz (127/65/fopen): adding to final database dump
+0485.826 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user_history.table.gz (128/65/fopen): adding to final database dump
+0486.009 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user_list.table.tmpr1001.gz (129/65/fopen): adding to final database dump
+0486.151 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db-table-wp_wysija_user_list.table.gz (130/65/fopen): adding to final database dump
+0489.534 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db.gz: finished writing out complete database file (454.9 KB)
+0490.431 (0) Total database tables backed up: 65 (backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db.gz, size: 465921, sha1: 2218a666980e52056303457f766df116f302d97c, sha256: a7c51d9bbd4e8341a66f2a973b90af6e95bc020b928d2fafb961297470648f9c)
+0491.258 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-plugins.zip: plugins: This file has already been successfully uploaded
+0491.396 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-themes.zip: themes: This file has already been successfully uploaded
+0491.519 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-uploads.zip: uploads: This file has already been successfully uploaded
+0491.596 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-others.zip: others: This file has already been successfully uploaded
+0491.750 (0) backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0492.032 (0) Saving backup history. Total backup size: 64.9 MB
+0492.474 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0493.165 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0493.310 (0) No remote despatch: user chose no remote backup service
+0493.491 (0) Recording as successfully uploaded: backup_2023-07-26-1344_Chic_Dressing_193dca74737c-db.gz
+0493.999 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0494.070 (0) Number of backup sets in history: 1; groups (db): 1
+0494.182 (0) Examining (for databases) backup set with group_id=0, nonce=193dca74737c, datestamp=1690379041 (Jul 26 2023 13:44:01)
+0494.266 (0) This backup set is the backup set just made, so will not be deleted.
+0494.266 (0) Number of backup sets in history: 1; groups (files): 1
+0494.373 (0) Examining (for files) backup set with nonce=193dca74737c, datestamp=1690379041 (Jul 26 2023 13:44:01)
+0494.373 (0) This backup set is the backup set just made, so will not be deleted.
+0494.473 (0) This backup set is the backup set just made, so will not be deleted.
+0494.473 (0) This backup set is the backup set just made, so will not be deleted.
+0494.473 (0) This backup set is the backup set just made, so will not be deleted.
+0494.474 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0494.706 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0495.082 (0) Resume backup (193dca74737c, 0): finish run
+0495.708 (0) Decremented the semaphore (fd) by 1
+0496.285 (0) Semaphore (fd) unlocked
+0496.348 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0496.920 (0) No email will/can be sent - the user has not configured an email address.
+0497.050 (0) The backup apparently succeeded and is now complete
