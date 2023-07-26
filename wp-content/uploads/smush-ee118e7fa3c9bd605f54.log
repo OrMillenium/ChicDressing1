@@ -1,0 +1,14 @@
+[2023-07-26 14:06:48 : INFO] - 
+ 
+[2023-07-26 14:06:48 : INFO] - Header for logs at time:  Wed, 26 Jul 2023 14:06:48 +0000 on http://localhost/chicdressing1 
+[2023-07-26 14:06:48 : INFO] - WP: 6.2.2 
+[2023-07-26 14:06:48 : INFO] - PHP: 8.0.26 (apache2handler, Windows NT DESKTOP-IHTCE4P 10.0 build 19045 (Windows 10) AMD64) 
+[2023-07-26 14:06:48 : INFO] - MySQL: 8.0.31 
+[2023-07-26 14:06:48 : INFO] - WPLANG: fr_FR 
+[2023-07-26 14:06:48 : INFO] - Server: Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev 
+[2023-07-26 14:06:48 : INFO] - Outbound connections: N 
+[2023-07-26 14:06:48 : INFO] - Disabled Functions:  
+[2023-07-26 14:06:48 : INFO] - max_execution_time: 120 
+[2023-07-26 14:06:48 : INFO] - memory_limit: 256M (used: 28.4M | 30M) 
+[2023-07-26 14:06:48 : INFO] - multisite: N 
+[2023-07-26 14:06:48 : INFO] - openssl: OpenSSL 1.1.1s  1 Nov 2022 
