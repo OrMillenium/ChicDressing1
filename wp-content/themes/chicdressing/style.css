@@ -64,3 +64,7 @@ body .header-logo a{
     background: #f6f6f6;
     padding-bottom: 20px;
 }
+
+.post-categories, .read-more, a{
+    color:#725027 !important;
+}
