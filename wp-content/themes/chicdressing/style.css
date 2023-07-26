@@ -68,3 +68,8 @@ body .header-logo a{
 .post-categories, .read-more, a{
     color:#725027 !important;
 }
+
+.post-date, .rpwwt-post-categories{
+    color:#595959 !important;
+    font-size: 13px !important;
+}
